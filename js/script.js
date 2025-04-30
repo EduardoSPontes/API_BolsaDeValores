@@ -11,7 +11,7 @@ document.querySelector('form').addEventListener('submit', async function (event)
   }
 
  
-  const apiKey = '6ooLtiLUhqgicJc8v6G1gU'; 
+  const apiKey = 'SEU_Token'; 
 
   const url = `https://brapi.dev/api/quote/${searchInput}?token=${apiKey}`;
 
