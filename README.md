@@ -10,4 +10,4 @@ A **Brapi** oferece uma API robusta para consultar dados em tempo real da Bolsa 
 - **Consultas Personalizadas:** Realize buscas de dados de acordo com filtros específicos, como data, ações ou categorias.
 
 ## **Criado por**
-Este projeto foi desenvolvido por **[Eduardo Santos Pontes]**.
+Este projeto foi desenvolvido por **Eduardo Santos Pontes**.
